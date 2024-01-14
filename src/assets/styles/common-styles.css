@@ -83,6 +83,9 @@ ol{
     font-size: 24px;
     list-style-type: arabic-indic;
 }
+.answers{
+    list-style-type: disc;
+}
 .rules{
     font-family: 'Cairo', 'Inter',sans-serif;
     color:  #1b1b1b;
