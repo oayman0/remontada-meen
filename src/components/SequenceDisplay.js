@@ -1,6 +1,6 @@
 const SequenceDisplay = ({ values }) => (
   <div>
-    <ol className="answers">
+    <ol >
       {values.map((value) => (
         <li key={value}>{value}</li>
       ))}

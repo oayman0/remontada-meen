@@ -93,7 +93,7 @@ const UserInterface = () => {
                     <div className='rules'>
 
                     <h2 className='title'>قوانين اللعبة</h2>
-                    <ol >
+                    <ol>
                         <li className='rules'>عدد الفرق 2 أو أكثر.</li>
                         <li className='rules'>لكل لاعب فى الفريق الحق فى تخمين اسم لاعب واحد فقط فى البطاقة.</li>
                         <li className='rules'>يتحول الدور إلى الفريق الآخر وهكذا.</li>

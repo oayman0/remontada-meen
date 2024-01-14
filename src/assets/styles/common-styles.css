@@ -81,12 +81,12 @@ ol{
     list-style-type: decimal;
     max-width: 250px;
     font-size: 24px;
-    list-style-type: arabic-indic;
+    /* list-style-type: arabic-indic; */
+    list-style-type: none;
 }
-.answers{
-    list-style-type: disc;
-}
+
 .rules{
+    list-style-type: arabic-indic;
     font-family: 'Cairo', 'Inter',sans-serif;
     color:  #1b1b1b;
     /* color:  #ffffff; */
